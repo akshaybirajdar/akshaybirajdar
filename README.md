@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akshaybirajdar
+- 👋 Hi, I’m Akshay Birajdar, a Software Engineer, passionate to work on Odoo Development.
 - 👀 I’m interested in Odoo Development.
-- 🌱 I’m currently learning Odoo Development.
+- 🌱 I’m currently learning Odoo Customization and Development.
 - 💞️ I’m looking to collaborate on Odoo 12, 13, 14 projects.
 - 📫 How to reach me ...
 You can contact me on akshaybirajdar35@gmail.com
